@@ -1,0 +1,8 @@
+[Plymouth Theme]
+Name=Assassin's Creed
+Description=Assassin's Creed Plymouth Splash
+ModuleName=script
+
+[script]
+ImageDir=/lib/plymouth/themes/Assassin
+ScriptFile=/lib/plymouth/themes/Assassin/assassin.script
